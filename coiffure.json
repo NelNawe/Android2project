@@ -1,99 +1,99 @@
 [
 
      {
-     "nom":"Afro_court",
-     "prix":"20",
-     "durée_de_prestation":"1",
-     "type_de_cheveux":"Nappy"
+     "name":"Afro_court",
+     "price":"20",
+     "time":"1",
+     "type":"Nappy"
      },
      {
-     "nom":"Soins_naturels",
-     "prix":"30",
-     "durée_de_prestation":"1.30",
-     "type_de_cheveux":"tout_type_de_cheveux"
+     "name":"Soins_naturels",
+     "price":"30",
+     "time":"1.30",
+     "type":"tout_type_de_cheveux"
      },
      {
-     "nom":"Tissage",
-     "prix":"50",
-     "durée_de_prestation":"2",
-     "type_de_cheveux":"tout_type_de_cheveux"
+     "name":"Tissage",
+     "price":"50",
+     "time":"2",
+     "type":"tout_type_de_cheveux"
      },
      {
-     "nom":"Twist",
-     "prix":"40",
-     "durée_de_prestation":"2",
-     "type_de_cheveux":"tout_type_de_cheveux"
+     "name":"Twist",
+     "price":"40",
+     "time":"2",
+     "type":"tout_type_de_cheveux"
      },
      {
-     "nom":"Vanilles_courtes_sans_rajout",
-     "prix":"35",
-     "durée_de_prestation":"2",
-     "type_de_cheveux":"tout_type_de_cheveux"
+     "name":"Vanilles_courtes_sans_rajout",
+     "price":"35",
+     "time":"2",
+     "type":"tout_type_de_cheveux"
      },
      {
-     "nom":"Vanilles_courtes_avec_rajout",
-     "prix":"50",
-     "durée_de_prestation":"2.30",
-     "type_de_cheveux":"tout_type_de_cheveux"
+     "name":"Vanilles_courtes_avec_rajout",
+     "price":"50",
+     "time":"2.30",
+     "type":"tout_type_de_cheveux"
      },
      {
-     "nom":"Vanilles_longues",
-     "prix":"70",
-     "durée_de_prestation":"4",
-     "type_de_cheveux":"tout_type_de_cheveux"
+     "name":"Vanilles_longues",
+     "price":"70",
+     "time":"4",
+     "type":"tout_type_de_cheveux"
      },
      {
-     "nom":"vanilles_courtes",
-     "prix":"45",
-     "durée_de_prestation":"3",
-     "type_de_cheveux":"tout_type_de_cheveux"
+     "name":"vanilles_courtes",
+     "price":"45",
+     "time":"3",
+     "type":"tout_type_de_cheveux"
      },
      {
-     "nom":"Bantu_knots",
-     "prix":"50",
-     "durée_de_prestation":"3",
-     "type_de_cheveux":"Nappy"
+     "name":"Bantu_knots",
+     "price":"50",
+     "time":"3",
+     "type":"Nappy"
      },
      {
-     "nom":"Vixen",
-     "prix":"45",
-     "durée_de_prestation":"2",
-     "type_de_cheveux":"Nappy"
+     "name":"Vixen",
+     "price":"45",
+     "time":"2",
+     "type":"Nappy"
      },
      {
-     "nom":"Braids_court",
-     "prix":"50",
-     "durée_de_prestation":"3",
-     "type_de_cheveux":"tout_type_de_cheveux"
+     "name":"Braids_court",
+     "price":"50",
+     "time":"3",
+     "type":"tout_type_de_cheveux"
      },{
-     "nom":"Braids_longues",
-     "prix":"70",
-     "durée_de_prestation":"4",
-     "type_de_cheveux":"tout_type_de_cheveux"
+     "name":"Braids_longues",
+     "price":"70",
+     "time":"4",
+     "type":"tout_type_de_cheveux"
      },
      {
-     "nom":"chignon",
-     "prix":"25",
-     "durée_de_prestation":"1",
-     "type_de_cheveux":"tout_type_de_cheveux"
+     "name":"chignon",
+     "price":"25",
+     "time":"1",
+     "type":"tout_type_de_cheveux"
      },
      {
-     "nom":"Nattes_collés",
-     "prix":"30",
-     "durée_de_prestation":"1",
-     "type_de_cheveux":"Nappy"
+     "name":"Nattes_collés",
+     "price":"30",
+     "time":"1",
+     "type":"Nappy"
      },
      {
-     "nom":"nattes_colles_avec_rajout",
-     "prix":"50",
-     "durée_de_prestation":"3",
-     "type_de_cheveux":"tout_type_de_cheveux"
+     "name":"nattes_colles_avec_rajout",
+     "price":"50",
+     "time":"3",
+     "type":"tout_type_de_cheveux"
      },
      {
-     "nom":"Pique_laisse",
-     "prix":"50",
-     "durée_de_prestation":"3",
-     "type_de_cheveux":"Nappy"
+     "name":"Pique_laisse",
+     "price":"50",
+     "time":"3",
+     "type":"Nappy"
      }
      ]
      
